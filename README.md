@@ -22,3 +22,10 @@ Some of commit message in this repository are following the Commitizen conventio
 The `fib` example contains configuration of Doxygen (`fib/Doxygfile`) and Netlify (`netlify.toml`)
 that automatically build doxygen (using `cd fib && make doc`), and publish the generated document
 to [https://ou-cs3560-f19-examples.netlify.com/](https://ou-cs3560-f19-examples.netlify.com/).
+
+
+Android Studio using a HAXM emulator
+Casey McDonald
+Cm514417
+
+Is this what we are suppose to do, I didn't see a issue 6#
